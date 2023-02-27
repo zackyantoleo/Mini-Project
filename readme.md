@@ -1,3 +1,5 @@
+# Mini Project Studi Independen QE by Alterra academy
+
 Link Project Automation Katalon
 Automation Web https://github.com/zackyantoleo/MiniprojectWeb.git
 
